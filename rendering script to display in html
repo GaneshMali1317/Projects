@@ -1,0 +1,1 @@
+ <div class="test Class" data-sly-resource="${'breadcrumb' @ resourceType='/apps/summit_toys/components/content/breadcopy'}"></div>
